@@ -7,9 +7,8 @@
  * Project	   : 32-Bit RISC-V Microprocessor
  * Date 	   : 1/3/2023(March)
  ***********************************************************************************************************************************************************************/
-
 module RISC_ALU_32 (
-    input [3:0] selLines_3,
+    input [2:0] selLines_3,
     input [31:0] inport1_32,
     input [31:0] inport2_32,
     output reg outZF,

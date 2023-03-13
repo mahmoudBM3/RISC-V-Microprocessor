@@ -1,0 +1,208 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/Engineering/Tools
+vRISC_ALU_32
+Z0 !s110 1678487552
+!i10b 1
+!s100 BDI4Z9Z;DnPYnbo=c<[BC2
+I2njkmP_K;zFaCU=XaCfI83
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/Engineering/IEEE Digital Workshop/RISC-V-Microprocessor
+w1678297412
+8D:/Engineering/IEEE Digital Workshop/RISC-V-Microprocessor/RISC_ALU_32.v
+FD:/Engineering/IEEE Digital Workshop/RISC-V-Microprocessor/RISC_ALU_32.v
+Z3 L0 10
+Z4 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1678487551.000000
+!s107 D:/Engineering/IEEE Digital Workshop/RISC-V-Microprocessor/RISC_ALU_32.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Engineering/IEEE Digital Workshop/RISC-V-Microprocessor/RISC_ALU_32.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@r@i@s@c_@a@l@u_32
+vRISC_CTRL_UNIT
+R0
+!i10b 1
+!s100 MLl2DUc]U@@^]aZ4_[k7[3
+ICN0=[<e2Cf6c=LIjTT2NT3
+R1
+R2
+w1678487492
+8D:/Engineering/IEEE Digital Workshop/RISC-V-Microprocessor/RISC_CTRL_UNIT.v
+FD:/Engineering/IEEE Digital Workshop/RISC-V-Microprocessor/RISC_CTRL_UNIT.v
+R3
+R4
+r1
+!s85 0
+31
+Z7 !s108 1678487552.000000
+!s107 D:/Engineering/IEEE Digital Workshop/RISC-V-Microprocessor/RISC_CTRL_UNIT.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Engineering/IEEE Digital Workshop/RISC-V-Microprocessor/RISC_CTRL_UNIT.v|
+!i113 1
+R5
+R6
+n@r@i@s@c_@c@t@r@l_@u@n@i@t
+vRISC_DATA_MEM_32
+R0
+!i10b 1
+!s100 fBS]=f5EcC_ik`doaa]Ml2
+IlKF1CHVUOCGZ7Id5:CAHR2
+R1
+R2
+w1678487467
+8D:/Engineering/IEEE Digital Workshop/RISC-V-Microprocessor/RISC_DATA_MEM_32.v
+FD:/Engineering/IEEE Digital Workshop/RISC-V-Microprocessor/RISC_DATA_MEM_32.v
+R3
+R4
+r1
+!s85 0
+31
+R7
+!s107 D:/Engineering/IEEE Digital Workshop/RISC-V-Microprocessor/RISC_DATA_MEM_32.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Engineering/IEEE Digital Workshop/RISC-V-Microprocessor/RISC_DATA_MEM_32.v|
+!i113 1
+R5
+R6
+n@r@i@s@c_@d@a@t@a_@m@e@m_32
+vRISC_INSTR_MEM_32
+R0
+!i10b 1
+!s100 dMF7QA>H@cGIRX;QT0OUo2
+I:z=N3NIhT`Jz9lLRfV6mY3
+R1
+R2
+w1678486953
+8D:/Engineering/IEEE Digital Workshop/RISC-V-Microprocessor/RISC_INSTR_MEM_32.v
+FD:/Engineering/IEEE Digital Workshop/RISC-V-Microprocessor/RISC_INSTR_MEM_32.v
+R3
+R4
+r1
+!s85 0
+31
+R7
+!s107 D:/Engineering/IEEE Digital Workshop/RISC-V-Microprocessor/RISC_INSTR_MEM_32.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Engineering/IEEE Digital Workshop/RISC-V-Microprocessor/RISC_INSTR_MEM_32.v|
+!i113 1
+R5
+R6
+n@r@i@s@c_@i@n@s@t@r_@m@e@m_32
+vRISC_PC_32
+R0
+!i10b 1
+!s100 gJKlo7VaJTN_GJzS3lfLP0
+I;d`FE^bSz1mhjfLmQNh:m1
+R1
+R2
+w1678486861
+8D:/Engineering/IEEE Digital Workshop/RISC-V-Microprocessor/RISC_PC_32.v
+FD:/Engineering/IEEE Digital Workshop/RISC-V-Microprocessor/RISC_PC_32.v
+R3
+R4
+r1
+!s85 0
+31
+R7
+!s107 D:/Engineering/IEEE Digital Workshop/RISC-V-Microprocessor/RISC_PC_32.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Engineering/IEEE Digital Workshop/RISC-V-Microprocessor/RISC_PC_32.v|
+!i113 1
+R5
+R6
+n@r@i@s@c_@p@c_32
+vRISC_REGF_32
+R0
+!i10b 1
+!s100 nQM]OQTeTT<^EIohT;D_o2
+I46WUh<=6;Ni@kn[B2DAdb3
+R1
+R2
+w1678486748
+8D:\Engineering\IEEE Digital Workshop\RISC-V-Microprocessor\RISC_REGF_32.v
+FD:\Engineering\IEEE Digital Workshop\RISC-V-Microprocessor\RISC_REGF_32.v
+R3
+R4
+r1
+!s85 0
+31
+R7
+!s107 D:\Engineering\IEEE Digital Workshop\RISC-V-Microprocessor\RISC_REGF_32.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\Engineering\IEEE Digital Workshop\RISC-V-Microprocessor\RISC_REGF_32.v|
+!i113 1
+R5
+R6
+n@r@i@s@c_@r@e@g@f_32
+vRISC_SGN_XTND
+R0
+!i10b 1
+!s100 Ace=Ih8lH]ZzR0jmG]W5n0
+Ij4ejD5il03@g]=N0zD8:f2
+R1
+R2
+w1678290847
+8D:\Engineering\IEEE Digital Workshop\RISC-V-Microprocessor\RISC_SGN_XTND.v
+FD:\Engineering\IEEE Digital Workshop\RISC-V-Microprocessor\RISC_SGN_XTND.v
+R3
+R4
+r1
+!s85 0
+31
+R7
+!s107 D:\Engineering\IEEE Digital Workshop\RISC-V-Microprocessor\RISC_SGN_XTND.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\Engineering\IEEE Digital Workshop\RISC-V-Microprocessor\RISC_SGN_XTND.v|
+!i113 1
+R5
+R6
+n@r@i@s@c_@s@g@n_@x@t@n@d
+vRISC_V_MP
+!s110 1678489963
+!i10b 1
+!s100 _4VS>>73hDhfXC4iT7QP:2
+I1m:MIHCzf]kPj[_ahe[fQ2
+R1
+R2
+w1678489938
+8D:\Engineering\IEEE Digital Workshop\RISC-V-Microprocessor\RISC_V_MP.v
+FD:\Engineering\IEEE Digital Workshop\RISC-V-Microprocessor\RISC_V_MP.v
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1678489963.000000
+!s107 D:\Engineering\IEEE Digital Workshop\RISC-V-Microprocessor\RISC_V_MP.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\Engineering\IEEE Digital Workshop\RISC-V-Microprocessor\RISC_V_MP.v|
+!i113 1
+R5
+R6
+n@r@i@s@c_@v_@m@p
+vRISC_V_tb
+!s110 1678488386
+!i10b 1
+!s100 2incBN3D72M2VHRg9@oTj2
+IWOeiO3L@GSk9QI<T__l]L0
+R1
+R2
+w1678488336
+8D:\Engineering\IEEE Digital Workshop\RISC-V-Microprocessor\RISC_V_tb.v
+FD:\Engineering\IEEE Digital Workshop\RISC-V-Microprocessor\RISC_V_tb.v
+L0 2
+R4
+r1
+!s85 0
+31
+!s108 1678488386.000000
+!s107 D:\Engineering\IEEE Digital Workshop\RISC-V-Microprocessor\RISC_V_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\Engineering\IEEE Digital Workshop\RISC-V-Microprocessor\RISC_V_tb.v|
+!i113 1
+R5
+R6
+n@r@i@s@c_@v_tb

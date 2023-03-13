@@ -39,6 +39,6 @@ module RISC_PC_32 (
         if(pcSrc)
         next_addr_32<=pc_32+immExt_32;
         else
-        next_addr_32<=pc_32+4;
+        next_addr_32<=pc_32+3'd4;
     end 
 endmodule
